@@ -20,7 +20,7 @@ export default function Home() {
           <h1 className="mt-6 ml-80 text-lg font-medium">I am Walt Aneke</h1>
           <h2 className="text-4xl font-bold text-white mt-8 ml-24 whitespace-nowrap">Frontend Developer</h2>
           <p className="mt-8 text-sm text-gray-400 mr-9">
-            "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it"
+          &quot;Every great developer you know got there by solving problems they were unqualified to solve until they actually did it&quot;
           </p>
           <p className="mt-2 text-gray-500 text-center ml-80 whitespace-nowrap text-base ">- Patrick McKenzie</p>
         </div>
@@ -46,7 +46,7 @@ export default function Home() {
           <h3 className="text-xl ">Say hello</h3>
           <p className="text-gray-500 mt-2">anekewalter@gmail.com</p>
           <div className="flex space-x-4">
-            <a href="https://twitter.com/your-x-link" target="_blank" rel="noopener noreferrer">
+            <a href="https://x.com/itz_WaltX" target="_blank" rel="noopener noreferrer">
             <Image
               src={Xicon}
               alt="Walts Profile Image"
@@ -55,10 +55,10 @@ export default function Home() {
               style={{ filter: "invert(44%) sepia(85%) saturate(617%) hue-rotate(166deg) brightness(80%) contrast(120%)" }}
             />
             </a>
-            <a href="https://github.com/your-github-link" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/Waltxcodes" target="_blank" rel="noopener noreferrer">
               <FaGithub className="text-blue-500" size={30} />
             </a>
-            <a href="https://www.linkedin.com/in/your-linkedin-link" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/izuchukwu-aneke-b07a91314/" target="_blank" rel="noopener noreferrer">
               <FaLinkedin className="text-blue-500" size={30} />
             </a>
           </div>
@@ -71,7 +71,7 @@ export default function Home() {
             <h4 className='text-lg'>My Works</h4>
             <p className="text-white-400 mt-2 text-sm">Just me playing around</p>
             <a href="/projects" className="block mt-20 border border-white text-white py-2 px-4 text-xs">
-              Let's Go
+              Lets Go
             </a>
           </div>
 
