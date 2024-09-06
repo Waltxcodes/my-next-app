@@ -17,7 +17,7 @@ export default function Home() {
           <div className="text-blue-500 text-xl ml-80 flex items-center justify-center lg:justify-start">
             Hey there! <span className="ml-2">👋</span>
           </div>
-          <h1 className="mt-6 ml-80 text-lg font-medium">I'm Walt Aneke</h1>
+          <h1 className="mt-6 ml-80 text-lg font-medium">I am Walt Aneke</h1>
           <h2 className="text-4xl font-bold text-white mt-8 ml-24 whitespace-nowrap">Frontend Developer</h2>
           <p className="mt-8 text-sm text-gray-400 mr-9">
             "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it"
@@ -30,7 +30,7 @@ export default function Home() {
           <div className="w-48 h-60 overflow-hidden">
             <Image
               src={profilePics}
-              alt="Walt's Profile Image"
+              alt="Walts Profile Image"
               width={192}
               height={192}
               className="object-cover"
@@ -49,7 +49,7 @@ export default function Home() {
             <a href="https://twitter.com/your-x-link" target="_blank" rel="noopener noreferrer">
             <Image
               src={Xicon}
-              alt="Walt's Profile Image"
+              alt="Walts Profile Image"
               width={30}
               height={30}
               style={{ filter: "invert(44%) sepia(85%) saturate(617%) hue-rotate(166deg) brightness(80%) contrast(120%)" }}
